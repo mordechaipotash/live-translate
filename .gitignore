@@ -1,0 +1,25 @@
+# Output files
+translations.json
+discord_queue.txt
+
+# Audio chunks
+*.wav
+chunk_*.wav
+
+# Whisper output
+*.txt
+*.srt
+*.vtt
+
+# Environment
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# Python (if Whisper installed locally)
+__pycache__/
+*.pyc
+venv/
+.venv/
