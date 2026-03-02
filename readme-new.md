@@ -2,7 +2,7 @@
 
 **Real-time translation from your Mac microphone. Zero gaps.**
 
-https://github.com/mordechaipotash/live-translate/raw/main/assets/demo.mp4
+<video src="https://github.com/mordechaipotash/live-translate/raw/main/assets/demo.mp4" width="100%" autoplay loop muted playsinline></video>
 
 ---
 
