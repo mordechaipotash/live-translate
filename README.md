@@ -6,7 +6,7 @@
   <img src="assets/demo-autoplay.gif" alt="live-translate Demo" width="640"/>
 </p>
 
-<p align="center"><i>⬆️ Auto-playing preview — <a href="https://github.com/mordechaipotash/live-translate/raw/main/assets/demo.mp4">click here for full video with audio</a></i></p>
+<p align="center"><i>⬆️ Auto-playing preview — <a href="https://github.com/user-attachments/assets/aa4ca180-d989-413a-afac-100fda0d0b7d">click here for full video with audio</a></i></p>
 
 
 https://github.com/user-attachments/assets/aa4ca180-d989-413a-afac-100fda0d0b7d
