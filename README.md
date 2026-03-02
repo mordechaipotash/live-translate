@@ -2,6 +2,12 @@
 
 **Real-time Hebrew→English translation from your Mac microphone. One script, zero config.**
 
+<p align="center">
+  <img src="assets/demo-autoplay.gif" alt="live-translate Demo" width="640"/>
+</p>
+
+<p align="center"><i>⬆️ Auto-playing preview — <a href="https://github.com/mordechaipotash/live-translate/raw/main/assets/demo.mp4">click here for full video with audio</a></i></p>
+
 > Used at a live tech meetup. 188 lines of bash. Records, transcribes, translates — no gaps.
 
 ---
