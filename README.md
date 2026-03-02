@@ -253,6 +253,7 @@ All output goes to `/tmp/live-translate/`:
 | **[live-translate](https://github.com/mordechaipotash/live-translate)** | ← You are here. Real-time Hebrew→English translation |
 | [local-voice-ai](https://github.com/mordechaipotash/local-voice-ai) | Local voice AI pipeline (Whisper + TTS on Apple Silicon) |
 | [brain-mcp](https://github.com/mordechaipotash/brain-mcp) | MCP server for querying 370K+ conversations as a cognitive prosthetic |
+| [brain-canvas](https://github.com/mordechaipotash/brain-canvas) | Visual knowledge graph for Brain MCP data |
 | [agent-memory-loop](https://github.com/mordechaipotash/agent-memory-loop) | Persistent memory layer for AI agents |
 | [mordenews](https://github.com/mordechaipotash/mordenews) | AI-curated news aggregator |
 | [x-search](https://github.com/mordechaipotash/x-search) | Real-time X/Twitter search via Grok |
@@ -264,11 +265,13 @@ All output goes to `/tmp/live-translate/`:
 graph TD
     A[🎤 live-translate] -->|Uses Whisper STT| B[local-voice-ai]
     A -->|Translation logs| C[brain-mcp]
+    C -->|Knowledge graph| D[brain-canvas]
     C -->|Memory layer| E[agent-memory-loop]
     
     style A fill:#e8f5e9,stroke:#4caf50,stroke-width:3px
     style B fill:#e3f2fd
     style C fill:#fff3e0
+    style D fill:#f3e5f5
     style E fill:#fce4ec
 ```
 
