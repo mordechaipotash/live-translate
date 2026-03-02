@@ -8,6 +8,10 @@
 
 <p align="center"><i>⬆️ Auto-playing preview — <a href="https://github.com/mordechaipotash/live-translate/raw/main/assets/demo.mp4">click here for full video with audio</a></i></p>
 
+
+https://github.com/user-attachments/assets/aa4ca180-d989-413a-afac-100fda0d0b7d
+
+
 > Used at a live tech meetup. 188 lines of bash. Records, transcribes, translates — no gaps.
 
 ---
